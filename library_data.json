@@ -2,27 +2,6 @@
     "name": "My Personal Library",
     "books": [
         {
-            "title": "my jungle ",
-            "author": "alishba",
-            "isbn": "11",
-            "genre": "11",
-            "year": 2014,
-            "publisher": "m.ali",
-            "pages": 20,
-            "description": "Personal Library",
-            "location": "Shelf",
-            "status": "Borrowed",
-            "rating": 2,
-            "date_added": "2025-03-13",
-            "borrowed_by": "my",
-            "borrowed_date": "2025-03-13",
-            "due_date": "2025-03-27",
-            "tags": [
-                "conple",
-                "readonly"
-            ]
-        },
-        {
             "title": "myy",
             "author": "neha",
             "isbn": "qq",
